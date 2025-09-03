@@ -1,7 +1,7 @@
-<!-- 🔹 Matrix no topo -->
 <p align="center">
-  <img src="https://i.ibb.co/0r5dXz7/matrix-rain.gif" width="100%" alt="Matrix Rain Banner"/>
+  <img src="https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif" width="900" height="200" alt="Matrix Header"/>
 </p>
+
 
 <h1 align="center">JEFERSON MARQUES</h1>
 <p align="center"><code>Estudante de Ciência da Computação | Aspirante a Desenvolvedor</code></p>
